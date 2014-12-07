@@ -1,0 +1,21 @@
+[
+{
+"modid": "titantechnology",
+"name": "Titan Technology",
+"description": "Titan Gaming's Technological Mod",
+"version": "1.0",
+"mcversion": "1.7.10",
+"url": "",
+"updateUrl": "",
+"authorList": [
+"Titan Hydra"
+],
+"credits": "To anyone who downloads this you are amazing!",
+"logoFile": "",
+"screenshots": [
+],
+"parent":"",
+"dependencies": [
+]
+}
+]
